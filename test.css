@@ -1,0 +1,406 @@
+/*** uncss> filename: C:/Users/Sam/Documents/GitHub/Sam-exe.github.io/main.css ***/
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+h1 {
+  margin: .67em 0;
+  font-size: 2em;
+}
+
+img {
+  border: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  color: #333;
+  background-color: #fff;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.w-inline-block {
+  max-width: 100%;
+  display: inline-block;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 38px;
+  line-height: 44px;
+}
+
+.wf-layout-layout {
+  display: grid;
+}
+
+:root {
+  --border-size: 20px;
+  --text-border-size: 10px;
+  --null-state: 0px;
+}
+
+.w-layout-layout {
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  grid-auto-columns: 1fr;
+  justify-content: center;
+  padding: 20px;
+}
+
+.w-layout-cell {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+body {
+  color: #333;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.container {
+  mix-blend-mode: normal;
+  border: 1px #000;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+}
+
+.body-2 {
+  background-color: #000;
+}
+
+.quick-stack-2 {
+  height: 200vh;
+  grid-column-gap: 27px;
+  grid-row-gap: 24px;
+  padding-top: 70px;
+}
+
+.selector {
+  z-index: 9999;
+  mix-blend-mode: exclusion;
+  position: fixed;
+  top: 0%;
+  bottom: auto;
+  left: 0%;
+  right: 0%;
+}
+
+.image-30 {
+  height: 70px;
+  mix-blend-mode: darken;
+}
+
+.text-link {
+  color: #fff;
+  mix-blend-mode: saturation;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-family: Opensans Variablefont Wdth Wght, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link-block-2 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.images {
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-block {
+  width: auto;
+  height: 100%;
+  color: #fff;
+  text-align: left;
+  flex-flow: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0;
+  padding-left: 60px;
+  padding-right: 60px;
+  font-family: Opensans Variablefont Wdth Wght, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  display: flex;
+  overflow: hidden;
+}
+
+.image-31 {
+  width: 100%;
+}
+
+.heading-9 {
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  padding-top: 20px;
+  font-family: Opensans Variablefont Wdth Wght, sans-serif;
+  display: flex;
+}
+
+@media screen and (max-width: 991px) {
+
+  .quick-stack-2 {
+    height: 150vh;
+  }
+
+  .text-block {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  .quick-stack-2 {
+    height: 100vh;
+  }
+
+  .text-block {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+
+  .quick-stack-2 {
+    height: 100vh;
+  }
+
+  .text-block {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+#w-node-b335a970-d74b-ca60-0cf2-cbf5801b89a2-1704861a {
+  grid-template-rows: auto auto auto 115px;
+  grid-template-columns: 1fr 1fr;
+}
+
+#w-node-grid-1 {
+  grid-template-rows: auto auto auto 115px;
+  grid-template-columns: 1fr 1fr;
+}
+
+@font-face {
+  font-family: 'Branda yolq';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/612cc4606baeff7fbe6cbcbf_Branda-yolq.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dreamland 0vwd (1)';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/612cc0d9c654a3e13e515991_Dreamland-0vWd%20(1).ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TEST?';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/612cc22ffb47f041c3386a02_data-unifon.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: optional;
+}
+
+@font-face {
+  font-family: 'Opensans Variablefont Wdth Wght';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/6553baf6cfed48f4cffd2cc8_OpenSans-VariableFont_wdth%2Cwght.ttf') format('truetype');
+  font-weight: 300 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Prestage axpjg';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/612cc5279aa83c256b52645a_Prestage-axpjg.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Prestageoutline ezern';
+  src: url('https://uploads-ssl.webflow.com/60a6077d3926773f321f2ee5/612cc543c3004edde2f43e30_PrestageOutline-eZeRn.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/*width*/
+::-webkit-scrollbar {
+  width: auto;
+}
+
+/*track*/
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0);
+}
+
+/*thumb*/
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 255, 255);
+} 
+/*** uncss> filename: http://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700%7CUbuntu:300,300italic,400,400italic,500,500italic,700,700italic%7CAlbert+Sans:300,regular,500 ***/
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZPPq4fy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPq4fy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(http://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZPPq4fy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 300;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf) format('truetype');
+}
